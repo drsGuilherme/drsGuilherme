@@ -1,0 +1,7 @@
+- 👋 Olá, sou @drsGuilherme
+- 👀 Estou interessado em aprender e trabalhar na área de programação.
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 💞️ Procuro colaborar em pequenos, médios e grandes projetos!
+- 📫 Como entrar em contato comigo? Por este Email: gmm.drs@proton.me ou pelo discord: .Wandebas
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Não tenho nenhuma😶‍🌫️
