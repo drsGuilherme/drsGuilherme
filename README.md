@@ -1,7 +1,7 @@
-- 👋 Olá, sou @drsGuilherme
-- 👀 Estou interessado em aprender e trabalhar na área de programação.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
-- 💞️ Procuro colaborar em pequenos, médios e grandes projetos!
-- 📫 Como entrar em contato comigo? Por este Email: gmm.drs@proton.me ou pelo discord: .Wandebas
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Não tenho nenhuma😶‍🌫️
+- 👋 Hello, I'm @drsGuilherme
+- 👀 I'm interested in learning and working in the programming field.
+- 🌱 I'm currently learning HTML, CSS and JavaScript.
+- 💞️ I'm looking to collaborate on small, medium and large projects!
+- 📫 How to contact me? By this Email: gmm.drs@proton.me or via discord: .Wandebas
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I don't know how to speak English🤣🥲
